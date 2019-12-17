@@ -1,0 +1,19 @@
+class JavaFinally
+{
+   public static void main(String args[])
+   {
+      System.out.println(JavaFinally.myMethod());  
+   }
+   public static int myMethod()
+   {
+      try {
+        
+      }
+      finally {
+        System.out.println("This is Finally block");
+        System.out.println("Finally block ran even after return statement");
+        
+      }
+      return 112;
+   }
+}
