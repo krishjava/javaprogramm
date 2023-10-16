@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - yield_method",
+            "request": "launch",
+            "mainClass": "yield_method",
+            "projectName": "yield_f079663f"
+        }
+    ]
+}

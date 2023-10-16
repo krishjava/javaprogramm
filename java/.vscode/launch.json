@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Syncro",
+            "request": "launch",
+            "mainClass": "Syncro",
+            "projectName": "java_5556b641"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Synchronize",
+            "request": "launch",
+            "mainClass": "Synchronize",
+            "projectName": "java_5556b641"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - runnable_interface",
+            "request": "launch",
+            "mainClass": "runnable_interface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - currentthread",
+            "request": "launch",
+            "mainClass": "currentthread"
+        }
+    ]
+}

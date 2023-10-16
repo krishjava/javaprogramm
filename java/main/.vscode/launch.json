@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "main_941f60c7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "main_941f60c7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main_overload",
+            "request": "launch",
+            "mainClass": "main_overload",
+            "projectName": "main_941f60c7"
+        }
+    ]
+}
